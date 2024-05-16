@@ -1,4 +1,3 @@
-J-shop by Md Shahed Rahman 
+# ZenUI Library Template
 
-
-https://rtui-j-shop.netlify.app/
+- visit our website to get more components and templates http://zenui-library.com
